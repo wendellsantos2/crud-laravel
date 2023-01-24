@@ -5,7 +5,7 @@ Projeto crud em Laravel e MySql
 
 
 1.Você deve ter instalado em seu computador a versão maior do PHP & Laravel & Xammp .<br/>
-2-usar esse comando no cmd " composer create-project laravel/laravel crud "<br/>
+2-usar esse comando no cmd " composer create-project laravel/laravel crud " para criar um projeto laravel <br/>
 3-Abra a pasta que foi criada.<br/>
 4-pegue os arquivos do crud-laravel-main e cole dentro da pasta crud que o composer criou e substitua todos.<br/>
 5.Substitua .env.example. por .env abra o arquivo .env e ir no DB_DATABASE=escola .Depois só coloque a configuracao do seu banco "DB_CONNECTION=mysql,DB_USERNAME=usuario do seu banco de dados
