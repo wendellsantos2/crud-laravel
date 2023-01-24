@@ -4,7 +4,7 @@ Projeto crud em Laravel e MySql
 
 1 - Primeiros passos para instalar o projeto <br/>
 2.Você deve ter instalado em seu computador a versão maior do PHP & Laravel & Xammp .<br/>
-3-usar esse comando no cmd "composer create-project laravel/laravel nome_do_seu_projeto"<br/>
+3-usar esse comando no cmd " composer create-project laravel/laravel crud "<br/>
 4-Abra a pasta que foi criada.<br/>
 5-pegue os arquivos do crud-laravel-main e cole dentro da pasta composer que foi criada e subustitua todos.<br/>
 6.Ligar o Xammpp para conectar no servidor MySql.<br/>
