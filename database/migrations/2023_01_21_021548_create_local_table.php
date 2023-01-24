@@ -16,8 +16,6 @@ class CreateLocalTable extends Migration
         Schema::create('local', function (Blueprint $table) {
             $table->id('id_local');
             $table->string('name');
-            $table->text('localizacao');
-            $table->string('image');
             $table->timestamps();
         });
     }
