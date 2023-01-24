@@ -6,8 +6,9 @@ Projeto crud em Laravel e MySql
 
 1.Você deve ter instalado em seu computador a versão maior do PHP & Laravel & Xammp .<br/>
 2.Ligar o Xammpp para conectar no servidor MySql.<br/>
-3.ir no init.config e escolher o banco de dados que vai ser criado.<br/>
-4.Criar um Banco de dados com o nome Escola.<br/>
+3.ir no init.config e ir no DB_DATABASE=escola e depois conectar ao seu banco de dados no meu caso é mysql entao "DB_CONNECTION=mysql,DB_USERNAME=root
+DB_PASSWORD=root" <br/>
+ 
 
 
 2 - Iniciar o projeto <br/>
