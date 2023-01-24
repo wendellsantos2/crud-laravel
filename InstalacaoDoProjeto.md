@@ -10,8 +10,8 @@ Projeto crud em Laravel e MySql
 4.Criar um Banco de dados com o nome Escola.<br/>
 
 
-2 - Iniciar o projeto 
+2 - Iniciar o projeto <br/>
 1.Iniciar o comando php artisan migrate no cmd. Para Criar o banco de dados.<br/>
-2.Colocar o comando php artisan serve no cmd. Para iniciar o laravel.
+2.Colocar o comando php artisan serve no cmd. Para iniciar o laravel.<br/>
 
    
