@@ -1,6 +1,6 @@
  
 
-1 - Primeiros passos para instralar o projeto 
+1 - Primeiros passos para instalar o projeto 
 
 Você deve ter instalado em seu computador a versão maior do PHP & Laravel.
 ir no init.config e escolher o banco de dados que vai ser criado.
